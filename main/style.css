@@ -17,15 +17,23 @@
 
 .thumbnail {
 	padding: 0px !important;
+	overflow: hidden;
+	border-radius: 0px !important;
 }
 
-.caption {
-	padding: 10px 10px 10px 20px !important;
+.caption-left {
+	margin-left: 164px;
+}
+
+.caption-destaque {
 	border-left: 10px solid green;
 }
 
+.caption-noticias {
+	border-left: 10px solid orange;
+}
 
-.thumbnail .caption h3, p {
+.thumbnail .caption h3, h2, p {
 	margin: 0px !important;
 }
 

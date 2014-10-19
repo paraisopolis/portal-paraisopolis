@@ -1,0 +1,40 @@
+Searching 14 files for "Cultura"
+
+/Users/brunoflora/portal-paraisopolis/index.html:
+   75  						<li><a href="#">Charge</a></li>
+   76  						<li><a href="#">Comunidade</a></li>
+   77: 						<li><a href="#">Cultura</a></li>
+   78  						<li><a href="#">Cursos</a></li>
+   79  						<li><a href="#">Econômia</a></li>
+   ..
+  195  				<div class="thumbnail">
+  196  					<div class="caption caption-destaque pull-left">
+  197: 						<h2>Cultura</h2>
+  198  					</div>
+  199  				</div>
+  ...
+  205  					<img src="img/background-boxcard01.jpg"  alt="box-card-img01">
+  206  					<div class="caption caption-destaque">
+  207: 						<h3>Cultura</h3>
+  208  						<p>Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Interagi no mé, cursus quis, vehicula ac nisi.</p>
+  209  					</div>
+  ...
+  213  				<div class="thumbnail">
+  214  					<div class="caption caption-destaque">
+  215: 						<h3>Cultura</h3>
+  216  						<p>Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Interagi no mé, cursus quis, vehicula ac nisi.</p>
+  217  					</div>
+  ...
+  219  				<div class="thumbnail">
+  220  					<div class="caption caption-destaque">
+  221: 						<h3>Cultura</h3>
+  222  						<p>Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Interagi no mé, cursus quis, vehicula ac nisi.</p>
+  223  					</div>
+  ...
+  225  				<div class="thumbnail">
+  226  					<div class="caption caption-destaque">
+  227: 						<h3>Cultura</h3>
+  228  						<p>Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Interagi no mé, cursus quis, vehicula ac nisi.</p>
+  229  					</div>
+
+6 matches in 1 file
