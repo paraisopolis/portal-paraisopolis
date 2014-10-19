@@ -1,4 +1,4 @@
-portal-paraisopolis
+Portal Paraisopolis
 ===================
 
-Portal Comunidade Paraisopolis
+Portal da Comunidade de Paraisopolis

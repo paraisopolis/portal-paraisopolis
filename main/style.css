@@ -1,0 +1,24 @@
+/* ClearFix's */
+.clear-margin {
+	margin: 0px !important;
+}
+
+/* Paraisopolis Logo Brand */
+.navbar-brand-logo {
+	height: 100px !important;
+}
+
+/* Carousel */
+.img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+	margin: 0 auto;
+}
+
+.carousel-inner {
+	background-color: #000;
+}
+
+.carousel-caption {
+	text-align: left !important;
+	width: 900px;
+	margin: 0 auto;
+}
