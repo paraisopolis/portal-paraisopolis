@@ -3,6 +3,35 @@
 	height: 100px !important;
 }
 
+/* Menu Bar */
+
+/* Menu Bar colors */
+
+.espaco-povo {
+	border-bottom: 4px solid #FEEE1D;
+}
+
+.radio {
+	border-bottom: 4px solid #DDA603;
+}
+
+.multientidades {
+	border-bottom: 4px solid #F4432F;
+}
+
+.urbanizacao {
+	border-bottom: 4px solid #A84699;
+}
+
+.publicacoes {
+	border-bottom: 4px solid #1DAEE3;
+}
+
+.foto-video {
+	border-bottom: 4px solid #30AF22;
+}
+
+
 /* Carousel */
 .img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img {
 	margin: 0 auto;
@@ -25,12 +54,20 @@
 	margin-left: 164px;
 }
 
-.caption-destaque {
-	border-left: 10px solid green;
+.caption-espaco-povo {
+	border-left: 4px solid #FEEE1D;
 }
 
-.caption-noticias {
-	border-left: 10px solid orange;
+.caption-radio {
+	border-left: 4px solid #DDA603;
+}
+
+.caption-multientidade {
+	border-left: 4px solid #F4432F;
+}
+
+.caption-urbanizacao {
+	border-left: 4px solid #A84699;
 }
 
 .thumbnail .caption h3, h2, p {
