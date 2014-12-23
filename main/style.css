@@ -3,6 +3,32 @@
 	height: 100px !important;
 }
 
+/* Color Pallete */
+
+.yellow {
+	color: #FEEE1D;
+}
+
+.orange {
+	color: #DDA603;
+}
+
+.red {
+	color: #F4432F;
+}
+
+.purple {
+	color: #A84699;
+}
+
+.blue {
+	color: #1DAEE3;
+}
+
+.foto-video {
+	color: #30AF22;
+}
+
 /* Menu Bar */
 
 /* Menu Bar colors */
@@ -11,7 +37,7 @@
 	border-bottom: 4px solid #FEEE1D;
 }
 
-.radio {
+.radio-paraisopolis {
 	border-bottom: 4px solid #DDA603;
 }
 
